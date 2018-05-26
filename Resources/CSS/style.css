@@ -1,15 +1,23 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
+  color: white;
 }
 h1 {
   font-size: 50px;
-  font-family: Verdana;
-  color: white;
   text-align: center;
   font-weight:normal;
 }
 a {
   color: Aquamarine;
   font-size: 16px;
+}
+h2{
+  font-weight: 300;
+  font-size: 42px;
+}
+p {
+  color: gray;
+  font-size: 21px;
 }
